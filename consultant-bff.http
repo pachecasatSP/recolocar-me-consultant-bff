@@ -1,0 +1,6 @@
+@consultant_bff_HostAddress = http://localhost:5078
+
+GET {{consultant_bff_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
